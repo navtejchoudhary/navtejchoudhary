@@ -1,7 +1,11 @@
 <!-- ============================================================
      GitHub profile README — Navtej Choudhary
-     Every navtejchoudhary is swapped for your GitHub username by setup.sh
+     Stats, activity graph and snake are redrawn daily by .github/workflows/profile.yml
      ============================================================ -->
+
+<p align="center">
+  <img src="./assets/hands.png" alt="Two dotted hands reaching" width="100%" />
+</p>
 
 <p align="center">
   <img src="./assets/banner.svg" alt="Navtej Choudhary — Data Analyst" width="100%" />
@@ -15,7 +19,6 @@
 
 <p align="center">
   <a href="mailto:choudharynavtej@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/your-linkedin-id"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" /></a>
   <a href="https://github.com/navtejchoudhary"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" /></a>
   <img src="https://komarev.com/ghpvc/?username=navtejchoudhary&style=for-the-badge&color=000000&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
@@ -23,6 +26,9 @@
 ---
 
 ### `> cat about_me.py`
+
+<table><tr>
+<td width="68%" valign="top">
 
 ```python
 class Navtej:
@@ -43,6 +49,12 @@ class Navtej:
     ]
     fun_fact    = "I read dashboards the way some people read novels."
 ```
+
+</td>
+<td width="32%" valign="middle" align="center">
+  <img src="./assets/face.jpg" alt="Dotted portrait" width="100%" />
+</td>
+</tr></table>
 
 ### `> ./how_i_work.sh`
 
@@ -71,8 +83,8 @@ class Navtej:
 ### `> SELECT * FROM github_stats;`
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=navtejchoudhary&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=d4d4d4&icon_color=ffffff&rank_icon=github&custom_title=navtej%27s%20numbers" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navtejchoudhary&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=d4d4d4&langs_count=6" alt="Top languages" />
+  <img src="https://raw.githubusercontent.com/navtejchoudhary/navtejchoudhary/output/stats.svg" alt="GitHub stats" width="49%" />
+  <img src="https://raw.githubusercontent.com/navtejchoudhary/navtejchoudhary/output/languages.svg" alt="Top languages" width="49%" />
 </p>
 
 <p align="center">
@@ -82,7 +94,7 @@ class Navtej:
 ### `> plot(activity, kind="line")`
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=navtejchoudhary&bg_color=000000&color=9a9a9a&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true&custom_title=commits%20over%20time" alt="Activity graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/navtejchoudhary/navtejchoudhary/output/activity.svg" alt="Contribution activity" width="100%" />
 </p>
 
 ### `> snake.eat(contributions)`
