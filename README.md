@@ -4,7 +4,7 @@
      ============================================================ -->
 
 <p align="center">
-  <img src="./assets/hands.png" alt="Two dotted hands reaching" width="100%" />
+  <img src="./assets/fire.gif" alt="Pixel-art car on fire, flames animated in code" width="100%" />
 </p>
 
 <p align="center">
